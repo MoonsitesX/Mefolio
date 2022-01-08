@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue !important;
+}
+
+.container-fluid {
+    color: blue;
+    background-color: rgb(105, 105, 250);
+}
+
+.hero-text {
+    text-align: center;
+}
+
+.about-me-flex {
+    display: flex;
+    flex-direction: row;
+    margin: 10%;
+    background-color: rgb(105, 130, 200)
+}
+.form {
+    width: 50% !important;
+}
+.emailHelp {
+    color: black;
+}
